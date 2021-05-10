@@ -1,0 +1,14 @@
+#mylegend{
+	border:1px solid blue;
+	width:900px;
+	height:500px;
+	margin-left:150px;
+	margin-top:50px;
+}
+
+#title{
+	border:1px solid blue;
+	width:900px;
+	height:100px;
+	margin-top:3px;
+}
